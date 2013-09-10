@@ -1,4 +1,4 @@
 declarative-rest-client-java
 ============================
 
-A Java based purely declarative REST Client Library
+A Purely Declarative REST Client written in Java that uses JSON structure to describe interactions with a RESTful WebService
